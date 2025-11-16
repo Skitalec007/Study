@@ -1,0 +1,4 @@
+2025-11-14 23:36:00.689179+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "AUTHORS" не найдена
+Table "AUTHORS" not found; SQL statement:
+select * from authors [42102-224]
